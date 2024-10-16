@@ -1,0 +1,61 @@
+.gradientVertical {
+    background: linear-gradient(red, blue);
+}
+
+#table {
+    width: 97%;
+    margin: auto;
+    background-color: white;
+    border-collapse: collapse;
+}
+
+#titre {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 155%;
+    color: white;
+    background-color: black;
+}
+
+#synopsis {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: white;
+}
+
+#distribution {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 125%;
+    width: 50%;
+    background-color: blue;
+    color: white;
+}
+
+.photoActeur {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+.nomActeur {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 120%;
+}
+
+.nomPersonnage {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 110%;
+    color: blue;
+}
+
+#autresFilms {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 125%;
+}
+
+#sources {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 125%;
+}
